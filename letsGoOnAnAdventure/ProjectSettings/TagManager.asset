@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - traps
+  - hp
+  - gameBlocks
+  - ground
+  - energyBall
+  - board
+  - enemy
+  - coin
+  - explosiveDamage
+  - superBlock
+  - checkPoint
+  - GM
+  - Pot
+  - bossBullet
+  - dungeonCollider
+  - exitSnowTwoCollider
+  - PlayerTwo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - wall
+  - roof
+  - lightning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: last
+    uniqueID: 1450776097
+    locked: 0
+  - name: bgpt
+    uniqueID: 41527751
+    locked: 0
+  - name: BG
+    uniqueID: 3793010787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
